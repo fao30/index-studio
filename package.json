@@ -2,7 +2,7 @@
   "name": "studio-fe",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://fao30.github.io/index-studio/",
+  "homepage": "https://fao30.github.io/index-studio",
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@emotion/react": "^11.10.6",
@@ -64,6 +64,7 @@
   },
   "devDependencies": {
     "@iconify/react": "^4.1.0",
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.0"
   }
 }
